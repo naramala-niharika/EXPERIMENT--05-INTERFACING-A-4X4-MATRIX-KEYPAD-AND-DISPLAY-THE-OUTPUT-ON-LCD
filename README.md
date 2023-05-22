@@ -454,13 +454,18 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 ```
 ## Output screen shots of proteus  :
-![Output](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/Screenshot%20(13).png?raw=true)
+![Screenshot (13)](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/91694317-9d1e-4255-93fa-6b43ef5ed2f8)
+
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
-![Output](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/lcd-3.png?raw=true)
+<img width="584" alt="lcd-1" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/0bfd9c8b-c2aa-4200-85e2-3a41fd7bbefc">
 
-![Output](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/lcd-4.png?raw=true)
+ <img width="581" alt="lcd-2" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/55667498-fdcd-4fd3-b996-d280ad6c2277">
  
+<img width="587" alt="lcd-3" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/70434590-2c0d-46d2-a7da-3bde12ae0e21">
+
+<img width="586" alt="lcd-4" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/f5ea7e2d-7e98-4f1c-bb3f-d8723865a747">
+
 ## Result :
 Interfacing a 4x4 keypad with ARM microcontroller are simulated in proteus and the results are verified.
