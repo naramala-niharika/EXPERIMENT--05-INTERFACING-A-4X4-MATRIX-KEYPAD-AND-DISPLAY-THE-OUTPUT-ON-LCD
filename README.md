@@ -458,10 +458,6 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="584" alt="lcd-1" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/f41cd3e5-d0ce-48bf-b94b-deda4c27e438">
- 
-<img width="581" alt="lcd-2" src="https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/assets/94165377/b268b20e-58ef-44a2-954f-792a95e77e69">
-
 ![Output](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/lcd-3.png?raw=true)
 
 ![Output](https://github.com/naramala-niharika/EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD/blob/main/lcd-4.png?raw=true)
